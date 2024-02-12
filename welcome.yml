@@ -1,9 +1,0 @@
-spring:
-  datasource:
-    password: '@nani1434509W'
-    url: jdbc:mysql://localhost:3306/springboot
-    username: root
-  jpa:
-    hibernate:
-      ddl-auto: update
-    show-sql: true
